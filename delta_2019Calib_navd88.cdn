@@ -8842,7 +8842,7 @@
        221.602783203125,-3.487903118133545
        238.32752990722656,3.6693549156188965
        257.8397216796875,14.153225898742676
-       3125.672119140625 1498.882568359375 
+       3372.92041015625 1652.9599609375 
        "LL, 11/13/2018: Adjusted the centerline slightly, created two cross-sections (181_0 and 181_1) at the computational points, and adjusted 181_2 to remove the negative dConveyance. *nl*  *nl* BT 6/24/2019: raised bottom to improve volume match with GIS and for more consistent area and bottom elev profile plots. *nl*  *nl* BT 7/25/2019: moved closer to middle to improve match with GIS volume estimate *nl*  *nl* BT 8/8/2019 moved further downstream to improve match with GIS volume estimate"
     "" 7
        33.101043701171875,16.421052932739258
@@ -9275,7 +9275,7 @@
      2107298.25,1.3719178E7
      2107125.75,1.3719107E7
      2107022.25,1.3718971E7
-     3
+     4
     "" 11
        -57.04125213623047,4.161793231964111
        -47.58620834350586,1.9776875972747803
@@ -9317,6 +9317,19 @@
        66.37931060791016,4.006085395812988
        2470.15625 278.6773681640625 
        "KH,2/7/2019: created the centerline; created cross-sections based on 2018 point and lidar data, ignoring the 2005 estimate on the crest of the levee  *nl*  *nl* BT, 6/18/2019: lowered bottom slightly to prevent drying up. *nl*  *nl* BT, 8/8/2019: adjusted for max area ratio"
+    "" 10
+       -62.51778030395508,4.161793231964111
+       -50.86206817626953,2.2616631984710693
+       -40.517242431640625,1.4097362756729126
+       -23.70689582824707,1.0040568113327026
+       -8.620689392089844,-0.370705246925354
+       4.741379261016846,-0.40687161684036255
+       16.810344696044922,0.13562387228012085
+       34.05172348022461,1.3286004066467285
+       51.2931022644043,1.8965517282485962
+       66.37931060791016,4.006085395812988
+       2907.657470703125 305.83587646484375 
+       "BT 8/9/2019: cloned from adjacent cross-section to prevent inter-channel interpolation to improve max area ratio"
 
   "189" 33
      2106983.75,1.3718942E7
@@ -9352,7 +9365,17 @@
      2106366.5,1.3721391E7
      2106263.0,1.3721421E7
      2106090.5,1.3721465E7
-     3
+     4
+    "" 7
+       -72.40398406982422,4.0466532707214355
+       -55.86206817626953,2.1458773612976074
+       -23.965517044067383,-0.909943699836731
+       12.241379737854004,-0.347091943025589
+       43.27586364746094,-0.8724202513694763
+       72.24137878417969,1.191369652748108
+       76.89655303955078,3.742964267730713
+       21.486692428588867 373.2247009277344 
+       "BT 8/9/2019: cloned from adjacent cross-section to prevent inter-channel interpolation to improve max area ratio"
     "" 7
        -72.40398406982422,4.0466532707214355
        -55.86206817626953,2.1458773612976074
@@ -9383,7 +9406,7 @@
        31.034482955932617,1.8716094493865967
        59.655174255371094,2.081632614135742
        77.93103790283203,4.0714287757873535
-       3762.4443359375 293.30462646484375 
+       3985.603515625 383.1056213378906 
        "KH,2/7/2019: created the centerline; created cross-sections based on 2018 point and lidar data, ignoring the 2005 estimate on the crest of the levee  *nl*  *nl* BT 8/7/2019: adjusted to prevent drying up and for max area ratio, calculated at 2 feet\ *nl*  *nl* BT, 8/8/2019: adjusted for max area ratio"
 
   "190" 38
@@ -9436,7 +9459,7 @@
        52.068965911865234,0.724258303642273
        68.62068939208984,2.6532769203186035
        80.3448257446289,4.598308563232422
-       394.61431884765625 326.68902587890625 
+       11.642019271850586 388.74554443359375 
        "KH,2/7/2019: created the centerline; created cross-sections based on 2018 point and lidar data, ignoring the 2005 estimate on the crest of the levee  *nl*  *nl* BT 7/17/2019: adjusted to improve max area ratio"
     "" 10
        -66.07396697998047,4.824561595916748
@@ -9460,11 +9483,11 @@
        36.2068977355957,0.6195462346076965
        73.70689392089844,1.1780104637145996
        124.13793182373047,4.344608783721924
-       3462.8603515625 342.7320861816406 
-       "KH,2/7/2019: created the centerline; created cross-sections based on 2018 point and lidar data, ignoring the 2005 estimate on the crest of the levee  *nl*  *nl* BT 7/17/2019: adjusted to improve max area ratio"
+       3719.08740234375 311.0523376464844 
+       "KH,2/7/2019: created the centerline; created cross-sections based on 2018 point and lidar data, ignoring the 2005 estimate on the crest of the levee  *nl*  *nl* BT 7/17/2019: adjusted to improve max area ratio *nl*  *nl* BT 8/9/2019: moved closer to end prevent inter-channel interpolation to improve max area ratio"
 
   "191" 37
-     2104197.0,1.3720041E7
+     2104186.75,1.3720063E7
      2104076.25,1.3720026E7
      2103981.25,1.3720026E7
      2103824.0,1.3720065E7
@@ -9514,8 +9537,8 @@
        58.620689392089844,1.7269439697265625
        72.4137954711914,3.3569979667663574
        85.86206817626953,4.898580074310303
-       460.28070068359375 322.2312927246094 
-       "KH,2/7/2019: created the centerline; created cross-sections based on 2018 point and lidar data, ignoring the 2005 estimate on the crest of the levee  *nl*  *nl* BT 7/17/2019: adjusted cross-section to improve max area ratio"
+       7.082174301147461 245.78636169433594 
+       "KH,2/7/2019: created the centerline; created cross-sections based on 2018 point and lidar data, ignoring the 2005 estimate on the crest of the levee  *nl*  *nl* BT 7/17/2019: adjusted cross-section to improve max area ratio *nl*  *nl* BT 8/9/2019: moved to end to prevent inter-channel interpolation to improve max area ratio"
     "" 11
        -65.5049819946289,4.979715824127197
        -54.74137878417969,2.3150105476379395
@@ -9528,7 +9551,7 @@
        59.05172348022461,0.9674502611160278
        79.31034851074219,3.1183931827545166
        94.39655303955078,4.85200834274292
-       2154.387451171875 311.2024841308594 
+       2149.20751953125 311.2024841308594 
        "KH,2/7/2019: created the centerline; created cross-sections based on 2018 point and lidar data, ignoring the 2005 estimate on the crest of the levee  *nl*  *nl* BT 7/17/2019: adjusted cross-section to improve max area ratio"
     "" 11
        -62.75862121582031,4.978858470916748
@@ -9542,7 +9565,7 @@
        51.72413635253906,1.5539112091064453
        62.75862121582031,3.3298096656799316
        68.27586364746094,4.72515869140625
-       4217.7734375 299.65728759765625 
+       4212.59375 299.65728759765625 
        "KH,2/7/2019: created the centerline; created cross-sections based on 2018 point and lidar data, ignoring the 2005 estimate on the crest of the levee "
 
   "192" 34
@@ -11682,8 +11705,8 @@
        70.73170471191406,-5.514112949371338
        92.3344955444336,-3.649193525314331
        100.0,2.903225898742676
-       2826.75439453125 902.997314453125 
-       "LL, 12/14/2018: Adjusted the existing xsections to line up with 1934 and 2002 data. Compared to Google map, both bathymetry and cross-section data in CSDP are not reasonable along this reach. Need more data. *nl*  *nl* BT 7/5/2019: modified cross-section to improve match with GIS volume estimate.  *nl* "
+       2274.9856160946383 905.3599179906538 
+       "LL, 12/14/2018: Adjusted the existing xsections to line up with 1934 and 2002 data. Compared to Google map, both bathymetry and cross-section data in CSDP are not reasonable along this reach. Need more data. *nl*  *nl* BT 7/5/2019: modified cross-section to improve match with GIS volume estimate.  *nl*  *nl* BT 8/9/2019: moved upstream to improve match with GIS volume estimate"
     "" 17
        -471.7770080566406,2.4947144985198975
        -468.9895324707031,-1.0570824146270752
@@ -12580,22 +12603,22 @@
        54.453861236572266 434.2236022949219 
        "LL, 12/14/2018: Deleted the existing xsection, and created new xsections to line up with 1934 data. Need more data. *nl*  *nl* BT 7/23/2019: Moved cross-section to end to prevent interpolation to improve match with GIS volume estimate"
     "" 6
-       -94.40459442138672,-7.796226501464844
-       -84.0746078491211,-9.633528709411621
-       -60.83213806152344,-12.799220085144043
-       -27.90530776977539,-13.360623359680176
-       29.985652923583984,-12.95516586303711
-       52.15208053588867,-7.746588706970215
-       2461.99072265625 436.5717468261719 
-       "LL, 12/14/2018: Deleted the existing xsection, and created new xsections to line up with 1934 data. Need more data. *nl*  *nl* BT 8/6/2019: moved slightly upstream to adjust result of intra-channel interpolation to improve match with GIS volume estimate *nl*  *nl* BT 8/82019: moved further downstream to adjust result of intra-channel interpolation to improve match with GIS volume estimate"
+       -112.02090454101562,-7.92043399810791
+       -100.69686126708984,-10.813743591308594
+       -84.1463394165039,-14.068716049194336
+       -24.041810989379883,-14.936708450317383
+       56.9686393737793,-14.719710350036621
+       71.7770004272461,-7.775768756866455
+       2738.6611781488814 593.9639621850126 
+       "LL, 12/14/2018: Deleted the existing xsection, and created new xsections to line up with 1934 data. Need more data. *nl*  *nl* BT 8/6/2019: moved slightly upstream to adjust result of intra-channel interpolation to improve match with GIS volume estimate *nl*  *nl* BT 8/82019: moved further downstream to adjust result of intra-channel interpolation to improve match with GIS volume estimate *nl*  *nl* BT 8/9/2019: adjusted to smooth the area profile plot for this channel"
     "" 5
-       -178.76614379882812,-5.508771896362305
-       -119.86062622070312,-11.369606018066406
-       -82.35294342041016,-13.342741966247559
-       8.321377754211426,-13.342741966247559
-       136.872314453125,-4.754032135009766
+       -150.3484344482422,-5.135623931884766
+       -120.73170471191406,-10.236363410949707
+       -71.08013916015625,-12.441229820251465
+       2.090592384338379,-10.945454597473145
+       42.1602783203125,-5.163636207580566
        4929.82421875 522.0091552734375 
-       "LL, 12/14/2018: Deleted the existing xsection, and created new xsections to line up with 1934 data. Need more data. *nl*  *nl* BT 7/11/2019: adjusted cross-section to improve match with GIS volume estimate"
+       "LL, 12/14/2018: Deleted the existing xsection, and created new xsections to line up with 1934 data. Need more data. *nl*  *nl* BT 7/11/2019: adjusted cross-section to improve match with GIS volume estimate *nl*  *nl* BT 8/9/2019: adjusted to smooth the area profile plot for this channel."
 
   "255" 9
      2050320.625,1.3750915E7
@@ -13509,8 +13532,8 @@
        67.59581756591797,-11.232014656066895
        140.06968688964844,-10.019493103027344
        165.15679931640625,4.561403274536133
-       2641.587646484375 1497.71435546875 
-       "AA, 2/21/2019:Changes made to the points. It is using the 1992 NOAA data. Weak data. *nl*  *nl* BT 7/17/2019: adjusted to improve max area ratio"
+       2103.078468604433 1061.6366267417259 
+       "AA, 2/21/2019:Changes made to the points. It is using the 1992 NOAA data. Weak data. *nl*  *nl* BT 7/17/2019: adjusted to improve max area ratio *nl*  *nl* BT 8/9/2019: moved upstream to improve match with GIS volume estimate"
     "" 9
        399.13916015625,8.282097816467285
        380.48779296875,1.9887429475784302
@@ -23886,10 +23909,10 @@
        "RW-11/16/2018: Created new cross-section to line up with 1990 data"
 
   "438" 6
-     1930808.0165360803,1.3821256884137856E7
-     1929231.5692245276,1.3821417746108424E7
-     1927172.536001275,1.3821642952867217E7
-     1924695.2616545493,1.3821996849202463E7
+     1930808.0,1.3821257E7
+     1929231.625,1.3821418E7
+     1927172.5,1.3821643E7
+     1924695.25,1.3821997E7
      1921480.0,1.3822626E7
      1918365.875,1.3823431E7
      4
@@ -23902,7 +23925,7 @@
        952.961669921875,-38.0863037109375
        1170.731689453125,-27.429643630981445
        1414.6341552734375,-1.1632269620895386
-       677.8088905141526 4127.26171875 
+       677.8088989257812 4127.26171875 
        "KH, 11/6/2018: no new data; no changes made *nl*  *nl* BT 7/18/2019: adjusted to improve match with GIS volume estimate for Grizzly Bay"
     "" 9
        -1847.59423828125,5.088625431060791
@@ -23914,7 +23937,7 @@
        726.4991455078125,-15.266464233398438
        1044.1778564453125,-6.049475193023682
        1733.2720947265625,4.031278133392334
-       3920.391825984332 3709.177978515625 
+       3920.391845703125 3709.177978515625 
        "KH, 11/1/2018: No new data. No changes made. *nl*  *nl*  *nl* "
     "" 8
        -1313.3660888671875,3.2207508087158203
@@ -23925,7 +23948,7 @@
        1175.98193359375,-14.84458065032959
        1226.910888671875,-7.746344566345215
        1896.7044677734375,3.7735660076141357
-       7469.058338877203 3467.963623046875 
+       7469.05810546875 3467.963623046875 
        "KH, 11/1/2018: No new data. No changes made. *nl* KH,11/2/2018. Center-line was adjusted slightly to line  *nl* up better with the data. Changed dX by 250 for this  *nl* cross-section. *nl*  *nl* "
     "" 7
        -2142.857177734375,-1.1416490077972412
@@ -23935,7 +23958,7 @@
        20.90592384338379,-33.276954650878906
        376.3066101074219,-28.879491806030273
        1348.4320068359375,-0.29598307609558105
-       11461.087635752207 5032.041015625 
+       11461.087890625 5032.041015625 
        "KH,11/2/2018. Center-line was adjusted slightly to line  *nl* up better with the data. Changed dX by 250 for this  *nl* cross-section. *nl*  *nl* BT 7/18/2019: adjusted to improve match with GIS volume estimate for Eastern Suisun Bay"
 
   "439" 6
@@ -24193,7 +24216,7 @@
        -1144.6153564453125,-15.537525177001953
        -850.1741943359375,-24.300203323364258
        432.0557556152344,-37.76876449584961
-       1393.7282229965158,-27.545638945233264
+       1393.728271484375,-27.545639038085938
        2580.246826171875,-17.809329986572266
        2604.938232421875,5.882352828979492
        3029.792724609375 5146.375 
@@ -24391,7 +24414,7 @@
        -2885.017333984375,-13.85080623626709
        -2216.02783203125,-18.4375
        -1317.0731201171875,-19.294355392456055
-       -668.989547038328,-16.723790322580644
+       -668.9895629882812,-16.723791122436523
        0.0,-15.362903594970703
        982.578369140625,-7.147177219390869
        982.578369140625,4.4455647468566895
@@ -25798,8 +25821,8 @@
        38.25327682495117,2.1608526706695557
        48.73362350463867,5.843023300170898
        76.68678283691406,11.560077667236328
-       320.78564453125 747.6021728515625 
-       "KH,11/6/2018: removed original (two) XSs; adjusted the center-line to  *nl* better line up with year 2018 data; created four new XSs  *nl*  *nl* BT 7/8/2019: modified cross-section to improve match with GIS volume estimate"
+       15.863543291518305 902.3358682235607 
+       "KH,11/6/2018: removed original (two) XSs; adjusted the center-line to  *nl* better line up with year 2018 data; created four new XSs  *nl*  *nl* BT 7/8/2019: modified cross-section to improve match with GIS volume estimate *nl*  *nl* 8/9/2019: moved closer to end to prevent inter-channel interpolation"
     "" 10
        -107.17359924316406,10.362903594970703
        -71.87948608398438,5.789473533630371
@@ -26718,7 +26741,7 @@
        "KH, 11/7/2018: added channel 483; moved the center-line to  *nl* better line up with 2018 data; created three new XSs. *nl*  *nl* BT 6/25/2019: shrunk cross-section to improve match with GIS estimated volume."
 
   "484" 71
-     1911622.125,1.3875053E7
+     1911656.180156161,1.3875040282486089E7
      1911671.125,1.3875112E7
      1911602.0,1.387525E7
      1911545.5,1.3875376E7
@@ -26789,31 +26812,17 @@
      1916938.75,1.3877108E7
      1917171.125,1.387709E7
      1917393.75,1.3877015E7
-     6
-    "" 9
-       -142.89813232421875,9.545454978942871
-       -72.8837890625,6.488095283508301
-       -32.71162033081055,0.8333333134651184
-       -10.903873443603516,-3.511904716491699
-       7.460545063018799,-5.476190567016602
-       37.30272674560547,-3.452380895614624
-       44.18938446044922,0.8928571343421936
-       70.5882339477539,6.726190567016602
-       179.62696838378906,9.345237731933594
-       69.65204620361328 450.4449157714844 
-       "BT 8/7/2019: cloned from adjacent cross-section to prevent inter-channel interpolation"
-    "" 9
-       -142.89813232421875,9.545454978942871
-       -72.8837890625,6.488095283508301
-       -32.71162033081055,0.8333333134651184
-       -10.903873443603516,-3.511904716491699
-       7.460545063018799,-5.476190567016602
-       37.30272674560547,-3.452380895614624
-       44.18938446044922,0.8928571343421936
-       70.5882339477539,6.726190567016602
-       179.62696838378906,9.345237731933594
-       461.4942321777344 698.7962036132812 
-       "KH,11/7/2018: moved the downstream point to node 372 ; *nl* moved the upstream point to node 400 ; *nl* updated the center-line to line up better with 2018 data; *nl* created five new XSs."
+     5
+    "" 7
+       -76.82926940917969,8.038397789001465
+       -50.174217224121094,5.05181360244751
+       -21.95121955871582,-6.658030986785889
+       1.5679442882537842,-7.849740982055664
+       9.407665252685547,-2.6165802478790283
+       24.041810989379883,6.036269664764404
+       55.40069580078125,9.404145240783691
+       13.118374916565099 224.90763077518923 
+       ""
     "" 9
        -99.13916778564453,11.480730056762695
        -62.553802490234375,7.6532769203186035
@@ -26824,7 +26833,7 @@
        31.420373916625977,1.4799153804779053
        43.61549377441406,6.553911209106445
        59.39741897583008,11.543340682983398
-       2816.535400390625 525.5001831054688 
+       2813.099308874216 525.5001831054688 
        "KH,11/7/2018: moved the downstream point to node 372 ; *nl* moved the upstream point to node 400 ; *nl* updated the center-line to line up better with 2018 data; *nl* created five new XSs."
     "" 9
        -82.92682647705078,10.721247673034668
@@ -26836,7 +26845,7 @@
        46.68989562988281,0.9746588468551636
        63.414634704589844,7.52436637878418
        100.0,10.799220085144043
-       6878.6826171875 725.795166015625 
+       6875.246525671091 725.795166015625 
        "KH,11/7/2018: moved the downstream point to node 372 ; *nl* moved the upstream point to node 400 ; *nl* updated the center-line to line up better with 2018 data; *nl* created five new XSs. *nl*  *nl* BT 6/26/2019: adjusted cross-section to improve match with GIS calculated volume."
     "" 6
        -117.64705657958984,12.420262336730957
@@ -26845,19 +26854,19 @@
        -15.331010818481445,-6.588694095611572
        13.93728256225586,-5.497076034545898
        69.68640899658203,13.76218318939209
-       9233.0380859375 681.7235107421875 
+       9229.601994421091 681.7235107421875 
        "KH,11/7/2018: moved the downstream point to node 372 ; *nl* moved the upstream point to node 400 ; *nl* updated the center-line to line up better with 2018 data; *nl* created five new XSs. *nl*  *nl* BT 6/26/2019: Moved xs away from deep hole to improve match with GIS estimated volume."
     "" 9
        -162.69728088378906,9.046652793884277
        -83.50071716308594,6.131078243255615
        -54.232425689697266,1.3953487873077393
        -37.01578140258789,-3.5095138549804688
-       -7.7474894523620605,-8.32981014251709
+       -4.181184768676758,-7.767354488372803
        35.29411697387695,-4.186046600341797
        45.62410354614258,1.0570824146270752
        98.99569702148438,6.215644836425781
        310.7604064941406,9.598308563232422
-       12452.443359375 872.7896118164062 
+       12449.007267858591 872.7896118164062 
        "KH,11/7/2018: moved the downstream point to node 372 ; *nl* moved the upstream point to node 400 ; *nl* updated the center-line to line up better with 2018 data; *nl* created five new XSs."
 
   "485" 37
@@ -27059,8 +27068,8 @@
        -21.379310607910156,-2.6130199432373047
        24.827587127685547,0.0994575023651123
        57.24137878417969,8.634719848632812
-       2626.744140625 362.49346923828125 
-       "KH,11/7/2018: created node 400; moved the downstream point to  *nl* node 400;updated the center-line to line up better with 2018 data; *nl* created three new XSs. *nl*  *nl* BT 7/17/2019: adjusted cross-section to improve max area ratio *nl*  *nl* BT 8/5/2019: adjusted to improve match with GIS volume estimate and max area ratio.  *nl*  *nl* BT 8/8/2019: moved closer to middle and adjusted to improve match with GIS volume estimate"
+       3007.3896484375 221.9569854736328 
+       "KH,11/7/2018: created node 400; moved the downstream point to  *nl* node 400;updated the center-line to line up better with 2018 data; *nl* created three new XSs. *nl*  *nl* BT 7/17/2019: adjusted cross-section to improve max area ratio *nl*  *nl* BT 8/5/2019: adjusted to improve match with GIS volume estimate and max area ratio.  *nl*  *nl* BT 8/8/2019: moved closer to middle and adjusted to improve match with GIS volume estimate *nl*  *nl* BT 8/9/2019: moved closer to downstream end to improve match with GIS volume estimate."
     "" 7
        -60.45296096801758,9.268292427062988
        -32.57839584350586,5.140712738037109
@@ -27597,8 +27606,8 @@
        42.61119079589844,3.9388489723205566
        62.41033172607422,7.041367053985596
        103.73027038574219,9.829136848449707
-       3504.041015625 876.4850463867188 
-       "KH,11/6/2018: removed original (two) XSs; adjusted the center-line to  *nl* better line up with year 2018 data; created three new XSs  *nl* "
+       3750.160256028311 1092.1587660421587 
+       "KH,11/6/2018: removed original (two) XSs; adjusted the center-line to  *nl* better line up with year 2018 data; created three new XSs  *nl*  *nl* 8/9/2019: moved closer to end to prevent inter-channel interpolation to improve match with GIS volume estimate"
 
   "502" 105
      1956808.75,1.3881414E7
@@ -29811,8 +29820,8 @@
        46.588623046875,-5.062237739562988
        57.98796844482422,-3.972217559814453
        62.69639205932617,-0.2622097432613373
-       5653.4296875 2971.5 
-       "BT 1/11/2019: reviewed existing cross-section created using 1934 NOAA data. No changes at this time."
+       6170.992934478584 1829.7586664969244 
+       "BT 1/11/2019: reviewed existing cross-section created using 1934 NOAA data. No changes at this time. *nl*  *nl* BT 8/9/2019: moved to end to prevent interpolation to improve max area ratio"
 
   "556" 9
      2067398.875,1.3914566E7
@@ -29852,15 +29861,15 @@
        3913.3134765625 2662.017822265625 
        "BT 8/6/2019: moved to middle, created cross-section to line up with 1934 NOAA data, and adjusted to improve match with GIS volume estimate"
     "" 7
-       -174.9128875732422,-1.2096774578094482
-       -155.40069580078125,-18.39717674255371
-       -55.74913024902344,-20.564516067504883
-       -11.84669017791748,-21.824596405029297
-       22.99651527404785,-21.370967864990234
-       137.97909545898438,-20.766128540039062
-       168.64111328125,-0.7056451439857483
+       -211.32403564453125,-1.6957364082336426
+       -162.02090454101562,-16.959064483642578
+       -70.03484344482422,-17.037036895751953
+       -14.634146690368652,-16.76413345336914
+       43.90243911743164,-16.842105865478516
+       110.10453033447266,-16.763565063476562
+       120.55748748779297,-1.6957364082336426
        7605.81689453125 1563.4757080078125 
-       "BT 1/11/2019: Added new cross-section to line up with 1934 NOAA data, and Google Earth width estimate. *nl*  *nl* BT 7/23/2019: adjusted to improve interpolated volume match with GIS volume estimate in channel 557. *nl*  *nl* BT 8/6/2019: adjusted to improve match with GIS volume estimate *nl*  *nl* BT 8/8/2019: adjusted to improve match with GIS volume estimate *nl* "
+       "BT 1/11/2019: Added new cross-section to line up with 1934 NOAA data, and Google Earth width estimate. *nl*  *nl* BT 7/23/2019: adjusted to improve interpolated volume match with GIS volume estimate in channel 557. *nl*  *nl* BT 8/6/2019: adjusted to improve match with GIS volume estimate *nl*  *nl* BT 8/8/2019: adjusted to improve match with GIS volume estimate *nl*  *nl* BT 8/9/2019: adjusted to improve match with GIS volume estimate *nl*  *nl* "
 
   "557" 12
      2069236.25,1.3907591E7
@@ -30087,65 +30096,71 @@
        8407.791015625 2946.511962890625 
        "RW-12/7/2018: Modified existing cross-section to line up with 1990 data *nl* "
 
-  "572" 2
+  "572" 3
+     1928255.6681861056,1.3848199133003198E7
      1927389.875,1.3847941E7
-     1913361.5,1.3844184E7
+     1913080.3474593994,1.3844103139355725E7
      3
     "" 6
-       3800.81201171875,2.797952175140381
-       3455.37158203125,-0.42514359951019287
-       1884.7041015625,-1.782306432723999
-       -848.382568359375,-2.702244997024536
-       -3550.600341796875,-2.9614603519439697
-       -3653.516357421875,3.026369094848633
-       1498.0130615234375 7757.71240234375 
+       4065.18017578125,2.880324602127075
+       3941.680908203125,-0.3164300322532654
+       2089.19384765625,-2.056795120239258
+       -771.86962890625,-2.9817445278167725
+       -2192.10986328125,-3.468559741973877
+       -2253.859375,2.933062791824341
+       2401.4678132662284 7757.71240234375 
        "KH, 11/1/2018: No new data. No changes made. *nl*  *nl* BT 7/18/2019: adjusted to improve match with GIS volume estimate."
     "" 8
-       5214.54931640625,3.290727376937866
-       5151.74072265625,-0.19765514135360718
-       2795.94140625,-2.249241352081299
-       1193.8433837890625,-2.7890913486480713
-       -471.063232421875,-3.32897686958313
-       -1633.5023193359375,-3.775747776031494
-       -3769.47216796875,-4.390206336975098
-       -3800.876220703125,2.9539718627929688
-       9250.1376953125 7759.76123046875 
-       "KH, 11/1/2018: No new data. No changes made. *nl*  *nl*  *nl* "
+       4538.59326171875,3.2981743812561035
+       4332.76171875,-0.42596349120140076
+       3838.764892578125,-1.8864097595214844
+       1409.948486328125,-3.0791075229644775
+       -30.874786376953125,-3.590263605117798
+       -1595.197265625,-4.174442291259766
+       -3324.185302734375,-4.588235378265381
+       -3365.3515625,3.0547666549682617
+       7794.26755590508 8813.287586031684 
+       "KH, 11/1/2018: No new data. No changes made. *nl*  *nl* 8/9/2019: modified to improve match with GIS volume estimate for Grizzly Bay channel group and max area ratio"
     "" 4
-       4223.23095703125,2.693909168243408
-       4052.2734375,-1.9292373657226562
-       -4139.373046875,-4.354838848114014
-       -4202.0908203125,3.0040323734283447
-       12104.7431640625 8657.150390625 
-       "KH, 11/1/2018: No new data. No changes made. *nl*  *nl*  *nl* "
+       5296.16748046875,2.5789473056793213
+       4773.51904296875,-1.5789474248886108
+       -3414.634033203125,-4.1052632331848145
+       -3484.320556640625,3.0526316165924072
+       13054.248970382268 11923.570631887604 
+       "KH, 11/1/2018: No new data. No changes made. *nl*  *nl* 8/9/2019: modified to improve match with GIS volume estimate for Grizzly Bay channel group and max area ratio"
 
   "573" 3
      1919974.875,1.3837471E7
      1928091.375,1.3844033E7
      1930525.5,1.3846185E7
      3
-    "" 4
+    "" 7
+       -3930.3134765625,3.2459676265716553
+       -3909.40771484375,-4.112903118133545
+       -1526.1324462890625,-4.314516067504883
+       857.1428833007812,-3.810483932495117
+       3010.452880859375,-3.5080645084381104
+       3324.0418118466896,0.32258064516128826
        3444.246337890625,4.19074010848999
-       3288.385498046875,-4.401555061340332
-       -4379.21240234375,-4.414243221282959
-       -4379.21240234375,4.027617454528809
        1340.692138671875 7839.5615234375 
-       "KH, 11/1/2018: No new data. No changes made. *nl*  *nl*  *nl* "
-    "" 4
-       4178.08935546875,2.888827323913574
-       4178.08935546875,-3.7297770977020264
-       -1656.94677734375,-3.9612245559692383
-       -1759.86279296875,2.9632654190063477
-       4976.11669921875 9207.50390625 
-       "KH, 11/1/2018: No new data. No changes made. *nl*  *nl* BT 6/26/2019: modified cross-section to improve match with GIS volume estimate and max area ratio. *nl*  *nl* BT 7/18/2019: adjusted to improve match with GIS volume estimate."
+       "KH, 11/1/2018: No new data. No changes made. *nl*  *nl* BT 8/9/2019: raised bottom to improve max area ratio. *nl*  *nl* "
     "" 5
        -1603.7735595703125,2.926530599594116
-       -1192.1097412109375,-3.4469387531280518
-       2117.052001953125,-3.4633326530456543
-       4869.9423828125,-2.5152130126953125
+       -1526.586669921875,-3.8693878650665283
+       2255.57470703125,-3.740816354751587
+       4905.66015625,-3.0244898796081543
        5835.69384765625,2.9776875972747803
        7576.6767578125 9796.2177734375 
-       "KH,11/9/2018: moved the original XS upstrea a bit; re-draw the XS *nl*  *nl* BT 6/26/2019: modified cross-section to improve match with GIS volume estimate and max area ratio."
+       "KH,11/9/2018: moved the original XS upstrea a bit; re-draw the XS *nl*  *nl* BT 6/26/2019: modified cross-section to improve match with GIS volume estimate and max area ratio. *nl*  *nl* 8/9/2019: modified to improve match with GIS volume estimate for Grizzly Bay channel group and max area ratio"
+    "" 6
+       5191.6376953125,1.6835700273513794
+       4599.30322265625,-0.8316429853439331
+       3797.909423828125,-2.129817485809326
+       2160.27880859375,-3.184584140777588
+       -871.0801391601562,-3.6713995933532715
+       -940.7665405273438,4.526315689086914
+       11727.708659437807 10188.469649376158 
+       "BT 8/9/2019: added cross-section near computational point using 1990 NOAA data. *nl*  *nl* BT 8/9/2019: lowered bottom to improve max area ratio"
 
   "574" 6
      1954236.875,1.3830405E7
@@ -30686,34 +30701,34 @@
        150.52264404296875,10.542635917663574
        1.9585882425308228 735.745361328125 
        " *nl* BT 7/31/2019: added new cross-section at computational point to line up with 2016 2m DEM data"
-    "" 9
+    "" 10
        -170.44476318359375,30.01865577697754
        -117.07317352294922,18.3914737701416
        -52.961673736572266,9.573643684387207
        -19.512195587158203,7.538759708404541
        -11.149826049804688,-1.4728682041168213
        6.96864128112793,-8.740309715270996
+       28.521739959716797,-8.93410873413086
        51.56794357299805,-8.352713584899902
        85.01741790771484,6.08527135848999
        111.49826049804688,10.251937866210938
        2990.754638671875 700.0 
-       " *nl* BT 7/31/2019: added new cross-section at computational point to line up with 2016 2m DEM data"
-    "" 13
+       " *nl* BT 7/31/2019: added new cross-section at computational point to line up with 2016 2m DEM data *nl*  *nl* 8/9/2019: adjusted to improve match with GIS volume estimate; goal is to smooth out the area profile plot for the channel"
+    "" 12
        -155.52366638183594,30.40892219543457
        -103.92156982421875,16.71814727783203
        -77.77777862548828,13.359073638916016
-       -34.843204498291016,9.768340110778809
        -9.803921699523926,4.903474807739258
-       11.12398624420166,-1.5830116271972656
-       24.33371925354004,-5.173745155334473
-       41.71494674682617,-11.08108139038086
-       49.36268997192383,-13.166023254394531
-       57.7056770324707,-13.281853675842285
-       64.27090454101562,-12.007721900939941
+       12.556869506835938,-1.4671814441680908
+       25.659690856933594,-5.173745155334473
+       40.1337776184082,-10.733591079711914
+       48.1605339050293,-13.050192832946777
+       58.1939811706543,-12.47104263305664
+       61.57518005371094,-11.807541847229004
        86.66205596923828,-0.19305019080638885
        112.89198303222656,9.189188957214355
        5981.50927734375 700.0 
-       " *nl* BT 7/31/2019: added new cross-section at computational point to line up with 2016 2m DEM data *nl*  *nl* BT 8/8/2019: adjusted to improve match with GIS volume estimate"
+       " *nl* BT 7/31/2019: added new cross-section at computational point to line up with 2016 2m DEM data *nl*  *nl* BT 8/8/2019: adjusted to improve match with GIS volume estimate *nl*  *nl* 8/9/2019: adjusted to improve match with GIS volume estimate; goal is to smooth out the area profile plot for the channel"
     "" 14
        -117.33333587646484,30.60077476501465
        -101.33333587646484,28.27519416809082
@@ -30721,32 +30736,32 @@
        -64.11149597167969,17.034883499145508
        7.333333492279053,8.701550483703613
        41.81184768676758,0.7558139562606812
-       64.0,-7.189922332763672
-       74.0,-8.54651165008545
-       80.66666412353516,-8.643410682678223
+       61.99575424194336,-7.480620384216309
+       75.09881591796875,-9.903100967407227
+       88.32271575927734,-8.93410873413086
        108.71080017089844,-7.8682169914245605
        120.0,-6.0271315574646
        125.43553924560547,-3.4108526706695557
        146.34146118164062,6.860465049743652
        167.2473907470703,10.251937866210938
        8972.263671875 700.0 
-       "BT 7/31/2019: added new cross-section at computational point to line up with 2016 2m DEM data *nl*  *nl* BT 8/8/2019: adjusted to improve match with GIS volume estimate"
+       "BT 7/31/2019: added new cross-section at computational point to line up with 2016 2m DEM data *nl*  *nl* BT 8/8/2019: adjusted to improve match with GIS volume estimate *nl*  *nl* 8/9/2019: adjusted to improve match with GIS volume estimate; goal is to smooth out the area profile plot for the channel"
     "" 12
        -115.35150909423828,29.53358268737793
        -100.34843444824219,26.705427169799805
        -76.6550521850586,17.887596130371094
        -32.055747985839844,11.49224853515625
        22.299652099609375,7.616279125213623
-       50.7645263671875,-5.949612617492676
-       62.99694061279297,-8.372093200683594
-       78.89908599853516,-8.468992233276367
-       87.80487823486328,-9.728682518005371
+       53.403141021728516,-5.949612617492676
+       58.63874435424805,-7.693798542022705
+       74.34555053710938,-7.7906975746154785
+       93.19371795654297,-8.447992324829102
        104.52961730957031,-8.56589126586914
        115.679443359375,-7.403100967407227
        160.27874755859375,10.135659217834473
        11963.0185546875 700.0 
-       "BT 7/31/2019: added new cross-section at computational point to line up with 2016 2m DEM data *nl*  *nl* BT 8/8/2019: adjusted to improve match with GIS volume estimate"
-    "" 13
+       "BT 7/31/2019: added new cross-section at computational point to line up with 2016 2m DEM data *nl*  *nl* BT 8/8/2019: adjusted to improve match with GIS volume estimate *nl*  *nl* 8/9/2019: adjusted to improve match with GIS volume estimate; goal is to smooth out the area profile plot for the channel"
+    "" 15
        -118.79483795166016,30.0
        -98.95470428466797,26.56920051574707
        -87.80487823486328,21.345029830932617
@@ -30754,14 +30769,16 @@
        0.0,9.337231636047363
        16.72473907470703,8.323586463928223
        40.41811752319336,0.05847953259944916
-       58.53658676147461,-3.918128728866577
+       55.68083190917969,-3.992248058319092
+       71.29228210449219,-7.2868218421936035
        87.80487823486328,-9.2202730178833
-       103.1358871459961,-8.98635482788086
+       104.5967025756836,-9.709301948547363
+       116.04509735107422,-8.062015533447266
        124.04180908203125,-5.867446422576904
-       151.9163818359375,6.0623779296875
+       153.5125732421875,5.988372325897217
        168.64111328125,9.571149826049805
        14953.7734375 700.0 
-       " *nl* BT 7/31/2019: added new cross-section at computational point to line up with 2016 2m DEM data"
+       " *nl* BT 7/31/2019: added new cross-section at computational point to line up with 2016 2m DEM data *nl*  *nl* 8/9/2019: adjusted to improve match with GIS volume estimate; goal is to smooth out the area profile plot for the channel"
     "" 14
        -119.94261169433594,29.440298080444336
        -94.77352142333984,25.34883689880371
@@ -30771,14 +30788,14 @@
        16.72473907470703,8.391472816467285
        25.087108612060547,7.422480583190918
        70.87307739257812,-8.17829418182373
-       88.48129272460938,-10.406976699829102
-       101.68745422363281,-10.213178634643555
-       114.0132064819336,-9.341085433959961
-       123.69772338867188,-6.821705341339111
-       150.99046325683594,5.581395149230957
-       163.0662078857422,9.457364082336426
+       86.41114807128906,-10.406976699829102
+       98.95470428466797,-10.116278648376465
+       111.49826049804688,-9.147286415100098
+       121.25435638427734,-6.627906799316406
+       149.12892150878906,5.775193691253662
+       160.27874755859375,9.5542631149292
        17925.0 696.4179077148438 
-       " *nl* BT 7/31/2019: added new cross-section at computational point to line up with 2016 2m DEM data *nl*  *nl* BT 8/8/2019: adjusted to improve match with GIS volume estimate *nl*  *nl* BT 8/8/2019: moved closer to end to improve match with GIS volume estimate"
+       " *nl* BT 7/31/2019: added new cross-section at computational point to line up with 2016 2m DEM data *nl*  *nl* BT 8/8/2019: adjusted to improve match with GIS volume estimate *nl*  *nl* BT 8/8/2019: moved closer to end to improve match with GIS volume estimate *nl*  *nl* 8/9/2019: adjusted to improve match with GIS volume estimate; goal is to smooth out the area profile plot for the channel"
 
   "712" 2
      2034156.5,1.3943629E7
