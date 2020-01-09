@@ -2951,7 +2951,7 @@
        1430.2158203125,-4.196821689605713
        3052.35546875 3000.0 
        "RW-11/17/2018: Created new cross-section to line up with 1998 data *nl*  *nl* BT 7/8/2019: modified cross-section to improve match with GIS volume estimate"
-    "" 11
+    "" 10
        -1004.3165283203125,2.5333333015441895
        -947.7351684570312,-14.584178924560547
        -912.8919677734375,-19.371196746826172
@@ -2962,9 +2962,8 @@
        662.0209350585938,-9.959431648254395
        947.7351684570312,-5.740365028381348
        1296.167236328125,-5.415821552276611
-       1296.167236328125,0.750507116317749
        5958.9873046875 3000.0 
-       "RW-11/17/2018: Created new cross-section to line up with 1998 data *nl*  *nl* BT 7/8/2019: modified cross-section to improve match with GIS volume estimate *nl*  *nl* BT 7/23/2019: adjusted to remove overlap with parallel channel."
+       "RW-11/17/2018: Created new cross-section to line up with 1998 data *nl*  *nl* BT 7/8/2019: modified cross-section to improve match with GIS volume estimate *nl*  *nl* BT 7/23/2019: adjusted to remove overlap with parallel channel. *nl*  *nl* BT 1/9/2020: removed rightmost line segment to improve match with data."
     "" 8
        -877.6978149414062,2.0
        -850.1741943359375,-19.452333450317383
@@ -22592,7 +22591,7 @@
        -302.2648010253906,2.7906975746154785
        -245.64459228515625,-14.968287467956543
        -149.82579040527344,-13.615221977233887
-       6.968641114982574,-16.49048625792812
+       6.96864128112793,-16.49048614501953
        185.54006958007812,-20.5496826171875
        211.67247009277344,-18.012685775756836
        329.2682800292969,33.91120529174805
@@ -22882,7 +22881,7 @@
        -233.44947814941406,-23.42494773864746
        -150.69686889648438,-27.31501007080078
        -54.878047943115234,-27.653276443481445
-       54.00696864111501,-18.012684989429175
+       54.0069694519043,-18.012685775756836
        145.4703826904297,-8.372093200683594
        175.95819091796875,-5.835094928741455
        219.51219177246094,6.004228115081787
@@ -24571,7 +24570,7 @@
        860.627197265625,4.959677219390869
        4241.0419921875 2290.4892578125 
        "KH,11/1/2018: No new data. No changes made. *nl*  *nl* BT 7/8/2019: modified cross-section to improve match with GIS volume estimate *nl*  *nl* BT 8/6/2019: adjusted to improve match with GIS volume estimate."
-    "" 8
+    "" 7
        -1802.4998779296875,3.8318862915039062
        -1335.0,-7.760507583618164
        -320.5574951171875,-20.544355392456055
@@ -24579,16 +24578,15 @@
        745.6445922851562,-15.20161247253418
        1003.4843139648438,-7.7419352531433105
        1823.333251953125,-3.5006747245788574
-       1823.333251953125,6.3830461502075195
        8555.634765625 3707.35009765625 
-       "KH,11/1/2018: No new data. No changes made. *nl*  *nl* BT 7/8/2019: modified cross-section, removing some of the deep hole, to improve match with GIS volume estimate *nl*  *nl* BT 8/6/2019: adjusted to improve match with GIS volume estimate."
+       "KH,11/1/2018: No new data. No changes made. *nl*  *nl* BT 7/8/2019: modified cross-section, removing some of the deep hole, to improve match with GIS volume estimate *nl*  *nl* BT 8/6/2019: adjusted to improve match with GIS volume estimate. *nl*  *nl* BT 1/9/2020: removed rightmost line segment to create J shape, which is a better fit to the data."
 
   "448" 3
      1921177.375,1.3835166E7
      1916317.5,1.3837621E7
      1912810.375,1.3838924E7
      3
-    "" 10
+    "" 9
        -3542.81640625,6.374268054962158
        -1658.53662109375,-3.306288003921509
        -1547.038330078125,-11.257606506347656
@@ -24598,11 +24596,9 @@
        696.8641357421875,-18.073022842407227
        1101.0452880859375,-7.200811386108398
        1310.1044921875,-6.146044731140137
-       1296.167236328125,7.32251501083374
        1580.691162109375 5077.2578125 
-       "KH, 11/1/2018: No new data; No changes made. *nl*  *nl* BT 7/18/2019: adjusted to improve match with GIS volume estimate."
-    "" 10
-       -3787.013671875,4.278988838195801
+       "KH, 11/1/2018: No new data; No changes made. *nl*  *nl* BT 7/18/2019: adjusted to improve match with GIS volume estimate. *nl*  *nl* BT 1/9/2020: removed rightmost line segment to create J shape, which is a better fit to the data."
+    "" 8
        -3787.013671875,-2.627987861633301
        -3073.170654296875,-7.550403118133545
        -2885.017333984375,-13.85080623626709
@@ -24611,11 +24607,9 @@
        -668.9895629882812,-16.723791122436523
        0.0,-15.362903594970703
        982.578369140625,-7.147177219390869
-       982.578369140625,4.4455647468566895
        5116.50244140625 7078.22021484375 
-       "KH, 11/1/2018: No new data; No changes made. *nl*  *nl* BT 7/18/2019: adjusted to improve match with GIS volume estimate for Grizzly Bay. *nl*  *nl* BT 8/9/2019: adjusted to improve match with GIS volume estimate for Grizzly Bay"
-    "" 9
-       -2205.574951171875,2.7822580337524414
+       "KH, 11/1/2018: No new data; No changes made. *nl*  *nl* BT 7/18/2019: adjusted to improve match with GIS volume estimate for Grizzly Bay. *nl*  *nl* BT 8/9/2019: adjusted to improve match with GIS volume estimate for Grizzly Bay *nl*  *nl* BT 1/9/2020: removed leftmost and rightmost line segment to create J shape, which is a better fit to the data."
+    "" 7
        -2205.574951171875,-15.866935729980469
        -1379.7908935546875,-13.699596405029297
        -689.8954467773438,-14.959677696228027
@@ -24623,16 +24617,14 @@
        616.7247314453125,-7.701612949371338
        1463.4146728515625,-7.449596881866455
        2320.557373046875,-5.0806450843811035
-       2737.748046875,2.090768575668335
        8395.4970703125 4544.43701171875 
-       "KH, 11/1/2018: No new data; No changes made. *nl*  *nl* BT 7/18/2019: adjusted to improve match with GIS volume estimate for Grizzly Bay. *nl*  *nl* BT 8/9/2019: adjusted to improve match with GIS volume estimate for Grizzly Bay."
+       "KH, 11/1/2018: No new data; No changes made. *nl*  *nl* BT 7/18/2019: adjusted to improve match with GIS volume estimate for Grizzly Bay. *nl*  *nl* BT 8/9/2019: adjusted to improve match with GIS volume estimate for Grizzly Bay. *nl*  *nl* BT 1/9/2020: removed leftmost and rightmost line segments to create J shape, which is a better fit to the data."
 
   "449" 2
      1910736.0,1.3847706E7
      1912156.0,1.3840469E7
      3
-    "" 10
-       -1626.9727783203125,9.583333015441895
+    "" 9
        -1477.7618408203125,-3.021582841873169
        -852.2238159179688,-4.190647602081299
        -358.6800537109375,-11.56474781036377
@@ -24643,9 +24635,8 @@
        622.6685791015625,3.363309383392334
        1426.1119384765625,9.298561096191406
        73.74996185302734 3000.0 
-       "KH, 11/5/2018: removed all XSs; *nl*  adjusted the center-line to better line up with 2018 data; *nl*  re-created all XSs and computational points"
-    "" 8
-       -1648.7252197265625,-0.016274863854050636
+       "KH, 11/5/2018: removed all XSs; *nl*  adjusted the center-line to better line up with 2018 data; *nl*  re-created all XSs and computational points *nl*  *nl* BT 1/9/2020: removed leftmost line segment to create J shape, which is a better fit to the data."
+    "" 7
        -1507.0821533203125,-2.921200752258301
        -1116.1473388671875,-3.709193229675293
        -436.2606201171875,-7.626641750335693
@@ -24654,7 +24645,7 @@
        798.8668823242188,-1.8180112838745117
        1348.44189453125,-0.03939962387084961
        3687.498046875 3000.0 
-       "KH, 11/5/2018: removed all XSs;  *nl* adjusted the center-line to better line up with 2018 data;  *nl* re-created all XSs and computational points"
+       "KH, 11/5/2018: removed all XSs;  *nl* adjusted the center-line to better line up with 2018 data;  *nl* re-created all XSs and computational points *nl*  *nl* BT 1/9/2020: removed leftmost line segment to create J shape, which is a better fit to the data."
     "" 7
        -1328.5509033203125,-4.119999885559082
        -490.67431640625,-5.177358627319336
@@ -30292,16 +30283,15 @@
      1927389.875,1.3847941E7
      1913080.375,1.3844103E7
      3
-    "" 6
+    "" 5
        4065.18017578125,2.880324602127075
        3941.680908203125,-0.3164300322532654
        2089.19384765625,-2.056795120239258
        -771.86962890625,-2.9817445278167725
        -2192.10986328125,-3.468559741973877
-       -2253.859375,2.933062791824341
        2401.4677734375 7757.71240234375 
-       "KH, 11/1/2018: No new data. No changes made. *nl*  *nl* BT 7/18/2019: adjusted to improve match with GIS volume estimate."
-    "" 8
+       "KH, 11/1/2018: No new data. No changes made. *nl*  *nl* BT 7/18/2019: adjusted to improve match with GIS volume estimate. *nl*  *nl* BT 1/9/2020: removed vertical line segment to create J shape, because it's in the middle of an open water area."
+    "" 7
        4538.59326171875,3.2981743812561035
        4332.76171875,-0.42596349120140076
        3838.764892578125,-1.8864097595214844
@@ -30309,24 +30299,21 @@
        -30.874786376953125,-3.590263605117798
        -1595.197265625,-4.174442291259766
        -3324.185302734375,-4.588235378265381
-       -3365.3515625,3.0547666549682617
        7794.267578125 8813.287109375 
-       "KH, 11/1/2018: No new data. No changes made. *nl*  *nl* 8/9/2019: modified to improve match with GIS volume estimate for Grizzly Bay channel group and max area ratio"
-    "" 4
+       "KH, 11/1/2018: No new data. No changes made. *nl*  *nl* 8/9/2019: modified to improve match with GIS volume estimate for Grizzly Bay channel group and max area ratio *nl*  *nl* BT 1/9/2020: removed vertical line segment to create J shape, because it's in the middle of an open water area."
+    "" 3
        5296.16748046875,2.5789473056793213
        4773.51904296875,-1.5789474248886108
        -3414.634033203125,-4.1052632331848145
-       -3484.320556640625,3.0526316165924072
        13054.2490234375 11923.5703125 
-       "KH, 11/1/2018: No new data. No changes made. *nl*  *nl* 8/9/2019: modified to improve match with GIS volume estimate for Grizzly Bay channel group and max area ratio"
+       "KH, 11/1/2018: No new data. No changes made. *nl*  *nl* 8/9/2019: modified to improve match with GIS volume estimate for Grizzly Bay channel group and max area ratio *nl*  *nl* BT 1/9/2020: removed vertical line segment to create J shape, because it's in the middle of an open water area."
 
   "573" 3
      1919974.875,1.3837471E7
      1928091.375,1.3844033E7
      1930525.5,1.3846185E7
      3
-    "" 7
-       -3930.3134765625,3.2459676265716553
+    "" 6
        -3909.40771484375,-4.112903118133545
        -1526.1324462890625,-4.314516067504883
        857.1428833007812,-3.810483932495117
@@ -30334,24 +30321,22 @@
        3324.041748046875,0.32258063554763794
        3444.246337890625,4.19074010848999
        1340.692138671875 7839.5615234375 
-       "KH, 11/1/2018: No new data. No changes made. *nl*  *nl* BT 8/9/2019: raised bottom to improve max area ratio. *nl*  *nl* "
-    "" 5
-       -1603.7735595703125,2.926530599594116
+       "KH, 11/1/2018: No new data. No changes made. *nl*  *nl* BT 8/9/2019: raised bottom to improve max area ratio. *nl*  *nl* BT 1/9/2020: removed vertical line segment to create J shape, because it's in the middle of an open water area."
+    "" 4
        -1526.586669921875,-3.8693878650665283
        2255.57470703125,-3.740816354751587
        4905.66015625,-3.0244898796081543
        5835.69384765625,2.9776875972747803
        7576.6767578125 9796.2177734375 
-       "KH,11/9/2018: moved the original XS upstrea a bit; re-draw the XS *nl*  *nl* BT 6/26/2019: modified cross-section to improve match with GIS volume estimate and max area ratio. *nl*  *nl* 8/9/2019: modified to improve match with GIS volume estimate for Grizzly Bay channel group and max area ratio"
-    "" 6
+       "KH,11/9/2018: moved the original XS upstrea a bit; re-draw the XS *nl*  *nl* BT 6/26/2019: modified cross-section to improve match with GIS volume estimate and max area ratio. *nl*  *nl* 8/9/2019: modified to improve match with GIS volume estimate for Grizzly Bay channel group and max area ratio *nl*  *nl* BT 1/9/2020: removed vertical line segment to create J shape, because it's in the middle of an open water area."
+    "" 5
        5191.6376953125,1.6835700273513794
        4599.30322265625,-0.8316429853439331
        3797.909423828125,-2.129817485809326
        2160.27880859375,-3.184584140777588
        -871.0801391601562,-3.6713995933532715
-       -940.7665405273438,4.526315689086914
        11727.708984375 10188.4697265625 
-       "BT 8/9/2019: added cross-section near computational point using 1990 NOAA data. *nl*  *nl* BT 8/9/2019: lowered bottom to improve max area ratio"
+       "BT 8/9/2019: added cross-section near computational point using 1990 NOAA data. *nl*  *nl* BT 8/9/2019: lowered bottom to improve max area ratio *nl*  *nl* BT 1/9/2020: removed vertical line segment to create J shape, because it's in the middle of an open water area."
 
   "574" 6
      1954236.875,1.3830405E7
