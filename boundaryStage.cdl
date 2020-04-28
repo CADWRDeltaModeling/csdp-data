@@ -1,0 +1,8 @@
+;HorizontalDatum:  UTMNAD83
+;HorizontalZone:   10
+;HorizontalUnits:  Meters
+;VerticalDatum:    NAVD88
+;VerticalUnits:    USSurveyFeet
+;Filetype:          landmark
+;NumElements:      1
+575688.9375,4209950.5,Martinez

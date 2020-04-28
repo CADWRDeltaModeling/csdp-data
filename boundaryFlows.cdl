@@ -1,0 +1,14 @@
+;HorizontalDatum:  UTMNAD83
+;HorizontalZone:   10
+;HorizontalUnits:  Meters
+;VerticalDatum:    NAVD88
+;VerticalUnits:    USSurveyFeet
+;Filetype:          landmark
+;NumElements:      7
+653984.1249999999,4170361.25,vernalis
+643233.6875,4203385.0,calaveras
+605245.75,4236976.5,north_bay
+615935.375,4232392.0,yolo
+629891.625,4272969.5,sac
+637184.375,4235591.0,cosumnes
+637278.9375,4235248.5,moke
