@@ -895,54 +895,60 @@
        -128.91986083984375,11.818181991577148
        -68.8153305053711,7.082452297210693
        56.620208740234375,6.152219772338867
-       72.29965209960938,0.23255814611911774
+       80.13937377929688,-4.503171443939209
        93.20557403564453,6.152219772338867
        140.243896484375,16.131078720092773
        265.679443359375,25.94080352783203
        406.86993408203125 1332.646484375 
-       "KH,1/30/2019: moved the centerline to better line up with 2010 CVFED-Furgo data; re-created the cross-sections *nl*  *nl* BT 8/7/2019: adjusted to prevent drying up and for max area ratio, calculated at 4.5 feet *nl*  *nl* BT 8/12/2019 adjusted for max area ratio at 1.0 ft"
-    "" 8
+       "KH,1/30/2019: moved the centerline to better line up with 2010 CVFED-Furgo data; re-created the cross-sections *nl*  *nl* BT 8/7/2019: adjusted to prevent drying up and for max area ratio, calculated at 4.5 feet *nl*  *nl* BT 8/12/2019 adjusted for max area ratio at 1.0 ft *nl*  *nl* BT 4/20/2022 lowered all xs in chan 17 to -5, to allow hydro to iterate through lower elevations without drying up. "
+    "" 10
        -290.75390625,24.25373077392578
        -83.62369537353516,11.052631378173828
        -69.68640899658203,5.438596725463867
-       20.689655303955078,0.6298449635505676
+       11.034482758620697,0.9689922480620156
+       22.299652099609375,-3.918128728866577
+       31.724137931034534,0.9689922480620156
        76.6550521850586,3.021442413330078
        102.06896209716797,9.689922332763672
        144.8275909423828,13.129844665527344
        208.27586364746094,24.563953399658203
        2966.0244140625 730.3334350585938 
-       "KH,1/30/2019: moved the centerline to better line up with 2010 CVFED-Furgo data; re-created the cross-sections *nl*  *nl* BT 8/7/2019: adjusted to prevent drying up and for max area ratio, calculated at 4.5 feet *nl* Note: cross-sections in this channel were later adjusted for max area ratio at 1 ft."
-    "" 10
+       "KH,1/30/2019: moved the centerline to better line up with 2010 CVFED-Furgo data; re-created the cross-sections *nl*  *nl* BT 8/7/2019: adjusted to prevent drying up and for max area ratio, calculated at 4.5 feet *nl* Note: cross-sections in this channel were later adjusted for max area ratio at 1 ft. *nl*  *nl* BT 4/20/2022 lowered all xs in chan 17 to -5, to allow hydro to iterate through lower elevations without drying up. "
+    "" 12
        -253.65853881835938,28.83041000366211
        -124.04180908203125,10.428850173950195
        -115.679443359375,6.296296119689941
        -97.56097412109375,1.9298245906829834
-       -59.93031311035156,0.8382066488265991
+       -65.5052264808362,0.9941520467836256
+       -57.14285659790039,-4.230019569396973
+       -50.174216027874536,1.0721247563352811
        -18.118467330932617,1.3060429096221924
        29.268293380737305,6.686159610748291
        62.717769622802734,9.727095603942871
        94.77352142333984,12.690058708190918
        221.602783203125,22.98245620727539
        6283.58349609375 797.0111083984375 
-       "KH,1/30/2019: moved the centerline to better line up with 2009 CVFED-Furgo data; re-created the cross-sections *nl*  *nl* BT 8/7/2019: adjusted to prevent drying up and for max area ratio, calculated at 4.5 feet *nl* Note: cross-sections in this channel were later adjusted for max area ratio at 1 ft."
-    "" 6
+       "KH,1/30/2019: moved the centerline to better line up with 2009 CVFED-Furgo data; re-created the cross-sections *nl*  *nl* BT 8/7/2019: adjusted to prevent drying up and for max area ratio, calculated at 4.5 feet *nl* Note: cross-sections in this channel were later adjusted for max area ratio at 1 ft. *nl*  *nl* BT 4/20/2022 lowered all xs in chan 17 to -5, to allow hydro to iterate through lower elevations without drying up. "
+    "" 8
        -242.46771240234375,28.0
        -73.17073059082031,3.7551021575927734
        -20.90592384338379,0.8163265585899353
-       73.17073059082031,1.9183673858642578
+       48.78048780487802,1.5510204081632644
+       66.20208740234375,-3.3469388484954834
+       83.6236933797909,2.408163265306122
        219.51219177246094,10.122448921203613
        324.04180908203125,25.67346954345703
        11169.0595703125 1866.740234375 
-       "BT 8/8/2019: added new cross-section using 1998 COE data. *nl* Note: cross-sections in this channel are adjusted for max area ratio at 1 ft."
+       "BT 8/8/2019: added new cross-section using 1998 COE data. *nl* Note: cross-sections in this channel are adjusted for max area ratio at 1 ft. *nl*  *nl* BT 4/20/2022 lowered all xs in chan 17 to -5, to allow hydro to iterate through lower elevations without drying up. "
     "" 6
        83.62369537353516,8.661844253540039
        188.15330505371094,2.8028934001922607
-       219.51219177246094,0.5605786442756653
+       219.51219177246094,-3.995943307876587
        244.59930419921875,2.900608539581299
        269.6864013671875,12.555781364440918
        296.8641052246094,21.724138259887695
        14531.7470703125 1131.29541015625 
-       "KH,1/30/2019: moved the centerline to better line up 2009 CVFED-Furgo data; re-created the cross-sections *nl*  *nl* BT 8/7/2019: adjusted to prevent drying up and for max area ratio, calculated at 4.5 feet *nl*  *nl* BT 8/82019: moved closer to end and adjusted to improve max area ratio *nl*  *nl* BT 2019: adjusted for max area ratio at 1 ft."
+       "KH,1/30/2019: moved the centerline to better line up 2009 CVFED-Furgo data; re-created the cross-sections *nl*  *nl* BT 8/7/2019: adjusted to prevent drying up and for max area ratio, calculated at 4.5 feet *nl*  *nl* BT 8/82019: moved closer to end and adjusted to improve max area ratio *nl*  *nl* BT 2019: adjusted for max area ratio at 1 ft. *nl*  *nl* BT 4/20/2022 lowered all xs in chan 17 to -5, to allow hydro to iterate through lower elevations without drying up. "
 
   "18" 5
      2120193.75,1.3785339E7
@@ -3856,7 +3862,7 @@
        52.22381591796875,-5.544041633605957
        78.63247680664062,-1.5196998119354248
        121.93732452392578,21.06941795349121
-       4429.656683144449 719.3832863201201 
+       4429.65673828125 719.38330078125 
        "WY, 12/13/2018, Created new cross-section to line up with 2018 2m DEM data;  *nl*  *nl* BT 7/16/2019: adjusted cross-section to improve match with GIS volume estimate *nl*  *nl* BT 10/26/2021: moved cross-section closer to end to prevent interpolation to improve match with GIS volume estimate"
 
   "73" 8
@@ -10024,9 +10030,9 @@
      5
     "" 6
        -100.34843444824219,26.04462432861328
-       -68.29268292682923,17.11967545638945
+       -68.29268646240234,17.119674682617188
        -40.41811752319336,-1.2170385122299194
-       -5.5749128919860595,1.3793103448275872
+       -5.574913024902344,1.3793103694915771
        27.87456512451172,8.032454490661621
        68.29268646240234,15.17241382598877
        260.64849853515625 601.39697265625 
@@ -10054,18 +10060,18 @@
        -80.48780822753906,-2.462686538696289
        -13.588850021362305,-0.5970149040222168
        7.317073345184326,4.067163944244385
-       47.38675958188156,9.944029850746272
+       47.38676071166992,9.944029808044434
        155.74913024902344,10.783581733703613
        8290.716796875 504.2651062011719 
        "LL, 11/19/2018: Created new centerline and xsections to line up with DWR 1999 and 1998 data.  *nl*  *nl* BT 8/7/2019: adjusted to prevent drying up and for max area ratio, calculated at 2 feet"
     "" 8
        -134.00286865234375,24.43349838256836
-       -107.66550522648083,23.448275862068968
+       -107.6655044555664,23.44827651977539
        -94.07665252685547,7.5456390380859375
        -53.31010437011719,1.2170385122299194
        43.90243911743164,0.5679513216018677
-       79.4425087108014,2.6774847870182583
-       108.71080139372827,11.277890466531439
+       79.44251251220703,2.6774847507476807
+       108.71080017089844,11.2778902053833
        188.80918884277344,11.398963928222656
        10485.2919921875 475.63018798828125 
        "LL, 11/19/2018: Created new centerline and xsections to line up with DWR 2009, 1999 and 1998 data.  *nl*  *nl* BT 10/27/2021: adjusted cross-section to match GIS volume estimate, using 2020 2m DEM "
@@ -10077,8 +10083,8 @@
      3
     "" 7
        -129.61672973632812,24.858871459960938
-       -110.10452961672473,18.608870967741936
-       -80.83623693379786,2.379032258064516
+       -110.10453033447266,18.608871459960938
+       -80.83623504638672,2.3790323734283447
        -40.41811752319336,-3.971774101257324
        15.331010818481445,-1.8548387289047241
        29.268293380737305,1.975806474685669
@@ -10804,7 +10810,7 @@
        16.72473907470703,-9.873417854309082
        81.5331039428711,1.0488245487213135
        129.61672973632812,18.842676162719727
-       4096.099177990876 848.3750455186338 
+       4096.09912109375 848.3750610351562 
        "BT10/18/2021: added new cross-section and adjusted to improve match with GIS volume estimate, using 2020 2m DEM *nl*  *nl* BT10/19/2021: adjusted to improve match with GIS volume estimate, using 2020 2m DEM *nl*  *nl* BT10/26/2021: adjusted to improve match with GIS volume estimate, using 2020 2m DEM"
 
   "218" 9
@@ -10826,7 +10832,7 @@
        -25.261323928833008,-11.898734092712402
        58.53658676147461,-9.439421653747559
        142.1602783203125,17.685352325439453
-       4.6951142541220525 893.039431535597 
+       4.6951141357421875 893.0394287109375 
        "BT 10/15/2021: added cross-section using 2020 2m DEM *nl*  *nl* BT 10/26/2021: moved cross-section closer to end to adjust volume to improve match with GIS volume estimate, using 2020 2m DEM."
     "" 8
        -36.06271743774414,4.757751941680908
