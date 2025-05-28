@@ -1,0 +1,107 @@
+;HorizontalDatum:  UTMNAD83
+;HorizontalZone:   10
+;HorizontalUnits:  Meters
+;VerticalDatum:    NAVD88
+;VerticalUnits:    USSurveyFeet
+;Filetype:          network
+;NumElements:      20
+  "LibertyIsland_connection" 2
+     2016660.375,1.389029E7
+     2019146.25,1.3902688E7
+     0
+
+  "connection_clifton_court" 2
+     2051920.875,1.3743127E7
+     2058062.0,1.3740108E7
+     0
+
+  "connection_decker_1" 2
+     2009162.5,1.3834047E7
+     2011975.5,1.3834215E7
+     0
+
+  "connection_decker_2" 2
+     2009162.5,1.3834026E7
+     2007565.625,1.3830949E7
+     0
+
+  "connection_discovery_bay_197" 2
+     2044920.375,1.3769123E7
+     2047115.25,1.3773109E7
+     0
+
+  "connection_discovery_bay_198" 2
+     2044942.125,1.376921E7
+     2042614.375,1.3771342E7
+     0
+
+  "connection_franks_tract_103" 2
+     2042626.375,1.3817761E7
+     2048153.625,1.3824152E7
+     0
+
+  "connection_franks_tract_216" 2
+     2042623.375,1.3817764E7
+     2041897.125,1.3808438E7
+     0
+
+  "connection_franks_tract_219" 2
+     2042623.375,1.3817761E7
+     2036441.25,1.3815112E7
+     0
+
+  "connection_franks_tract_224" 2
+     2042626.375,1.3817761E7
+     2041663.625,1.3823606E7
+     0
+
+  "connection_franks_tract_225" 2
+     2042626.375,1.3817764E7
+     2034653.25,1.3819694E7
+     0
+
+  "connection_franks_tract_232" 2
+     2042629.25,1.3817758E7
+     2048419.75,1.3818383E7
+     0
+
+  "connection_little_franks_tract" 2
+     2029407.875,1.3819972E7
+     2028317.125,1.3818577E7
+     0
+
+  "connection_mildred_127" 2
+     2066786.125,1.3799906E7
+     2062782.375,1.3797182E7
+     0
+
+  "connection_mildred_128" 2
+     2066787.375,1.3799907E7
+     2063999.0,1.3800217E7
+     0
+
+  "connection_mildred_129" 2
+     2066786.125,1.3799906E7
+     2066411.625,1.3802612E7
+     0
+
+  "connection_mildred_130" 2
+     2066787.375,1.3799906E7
+     2069100.125,1.3802763E7
+     0
+
+  "connection_mildred_136" 2
+     2066786.125,1.3799907E7
+     2068723.25,1.3797584E7
+     0
+
+  "connection_tule_red" 2
+     1931143.625,1.3847968E7
+     1929043.875,1.3846959E7
+     0
+
+  "connection_yolo_flyway" 2
+     2029385.875,1.3935268E7
+     2029497.625,1.3930203E7
+     0
+

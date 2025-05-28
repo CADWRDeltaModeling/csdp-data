@@ -1,0 +1,33 @@
+;HorizontalDatum:  UTMNAD83
+;HorizontalZone:   10
+;HorizontalUnits:  Meters
+;VerticalDatum:    NAVD88
+;VerticalUnits:    USSurveyFeet
+;Filetype:          landmark
+;NumElements:      26
+615442.0,4219547.0,7_mile@3_mile
+621499.0,4218739.0,7_mile@sjr
+616343.0,4213162.0,FalseBarrier
+626999.0,4187923.0,clifton_court
+613041.0,4216674.0,decker_is_north_weir
+611872.0,4215901.0,decker_is_south_weir
+630421.0,4234225.0,delta_cross_channel
+578842.0,4215128.0,goodyear_sl
+636575.0,4186954.0,grant_line_barrier
+633465.0,4194201.0000000005,middle_r_barrier
+597653.0,4216744.0,montezuma_salinity_control
+581777.0,4218829.0,morrow_c_line_outfall
+581022.0,4219518.0,morrow_m_line_outfall
+579057.0,4218637.0,morrow_sys_intake
+647109.0,4185846.0,old_r@head_barrier
+628269.0,4185759.9999999995,old_r@tracy_barrier
+648933.0,4180563.0,paradise_cut_weir
+643477.4860446532,4185156.7871519052,paradise_temp
+597547.0,4216758.0,roaring_river_slough_intake
+620972.0,4204325.0,sandmound_sl
+639250.0,4183724.0,tom_paine_sl
+587949.8125,4221102.5,tule_red_channel_entrance
+587609.875,4221618.5,tule_red_north_berm
+588617.125,4220108.0,tule_red_south_berm
+619200.0,4247817.0,yolo_flyway_weir_north
+618811.0,4246696.0,yolo_flyway_weir_south

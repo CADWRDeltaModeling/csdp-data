@@ -1,0 +1,16 @@
+;HorizontalDatum:  UTMNAD83
+;HorizontalZone:   10
+;HorizontalUnits:  Meters
+;VerticalDatum:    NAVD88
+;VerticalUnits:    USSurveyFeet
+;Filetype:          landmark
+;NumElements:      9
+625428.0625,4188904.75,Clifton_Court_Forebay
+612392.875,4216615.0,Decker_Island
+623302.375,4196841.5,Discovery_Bay
+622593.5,4211653.0,Franks_Tract
+618565.3125,4212326.5,LFT
+615452.5625,4237524.0,Liberty_Island
+629956.8125,4206211.0,Mildred_Island
+588617.5625,4220866.0,Tule_Red
+618561.625,4247453.5,Yolo_Flyway

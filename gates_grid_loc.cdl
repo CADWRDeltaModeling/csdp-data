@@ -1,0 +1,30 @@
+;HorizontalDatum:  UTMNAD83
+;HorizontalZone:   10
+;HorizontalUnits:  Meters
+;VerticalDatum:    NAVD88
+;VerticalUnits:    USSurveyFeet
+;Filetype:          landmark
+;NumElements:      23
+615374.3125,4219538.5,7_mile@3_mile
+621519.3125,4218672.0,7_mile@sjr
+616015.5,4213273.5,FalseBarrier
+627294.75,4187980.5,clifton_court
+613242.4375,4216675.5,decker_is_north_weir
+611895.625,4215686.5,decker_is_south_weir
+630345.25,4234274.5,delta_cross_channel
+578827.375,4215030.5,goodyear_sl
+636502.25,4186975.2500000005,grant_line_barrier
+634765.9375,4193869.0,middle_r_barrier
+597590.125,4216811.0,montezuma_salinity_control
+581715.75,4218892.0,morrow_c_line_outfall
+580739.4375,4219611.0,morrow_m_line_outfall
+579267.1875,4218748.0,morrow_sys_intake
+647196.1875,4185854.25,old_r@head_barrier
+628262.75,4185770.75,old_r@tracy_barrier
+649386.6875,4179709.5,paradise_cut_weir
+643477.5,4185150.2499999995,paradise_temp
+597540.75,4216707.0,roaring_river_slough_intake
+620974.375,4204346.5,sandmound_sl
+639260.5000000001,4183738.25,tom_paine_sl
+588121.625,4220599.5,tule_red_weirs
+618569.0625,4245952.5,yolo_flyway_weir
