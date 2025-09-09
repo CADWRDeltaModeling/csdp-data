@@ -4,7 +4,7 @@
 ;VerticalDatum:    NAVD88
 ;VerticalUnits:    USSurveyFeet
 ;Filetype:          network
-;NumElements:      20
+;NumElements:      21
   "LibertyIsland_connection" 2
      2016660.375,1.389029E7
      2019146.25,1.3902688E7
@@ -33,6 +33,11 @@
   "connection_discovery_bay_198" 2
      2044942.125,1.376921E7
      2042614.375,1.3771342E7
+     0
+
+  "connection_franks_tract_102" 2
+     2042629.9819146227,1.3817760066492792E7
+     2049065.8456173742,1.3813145673649311E7
      0
 
   "connection_franks_tract_103" 2
