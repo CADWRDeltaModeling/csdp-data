@@ -1,0 +1,12 @@
+;HorizontalDatum:  UTMNAD83
+;HorizontalZone:   10
+;HorizontalUnits:  Meters
+;VerticalDatum:    NAVD88
+;VerticalUnits:    USSurveyFeet
+;Filetype:          landmark
+;NumElements:      5
+628727.8,4189748.3,CIS
+638631.8,4186457.6,DGL
+642165.8,4193399.5,MHR
+628312.5,4185763.1,OAD
+636491.6,4185281.5,OLD

@@ -1,0 +1,25 @@
+Landmark files used to create DSM2 output locations.
+
+The "landmark" folder contains
+ - two excel files, om_compliance_stations.xlsx and output_loc_files.xlsx. These files are used to create the CSDP landmark files (.cdl) in the landmark folder.
+ - The files output_mid_r_flow.cdl and output_sal_ec.cdl contain modified station coordinates, and are used to create output locations for comparison with
+   - flow data from station MDM, because in DSM2, this location is represented by two roughly parallel channels rather than one.
+   - EC data from station SAL, on the SJR. At this location, observed EC is influenced primaraly by the Mokelumne River EC, however, DSM2 does not simulate
+     EC accurately at this location. For the purposes of creating a DSM2 output location, the station coordinates are moved to a location in the Mokelumne
+     River near the SJR. Stations MDM and SAL should not appear in any other landmark or output*.inp files to avoid mistakes.
+
+Procedure:
+Use the excel files to export the station coordinate data to landmark files.
+Use notepad++ to copy the landmark metadata lines to the files you created. Update NumElements to match the number of stations in the file.
+Use the CSDP to create the output location files (.inp, see CSDP documentation).
+
+
+Notes:
+* for flow at station MDM, there is a separate landmark file, which should be used to create a separate output location file. This is because the two flow outputs need to be subtracted to compare with observed.
+* The landmark files were created using the excel file output_loc_files, which assigns coordinates to station abbreviations. The sources for the landmark files are stations_utm_new.csv (from Bay-Delta SCHISM repository) and stations_dbase (from Sophie/MSS), and stations_other, where I have mapped RKI values to cdec style abbreviations, and determined coordinates for a few other stations (including MDM1 and MDM2, which I am using to create the two outputs for this station) using CDEC and on online coordinate conversion tool.
+* Coordinates for the following stations are modified in output_loc_files.xlsx:
+  * HLT, because the actual location is in a portion of the grid represented by a complex network of channels, and the flow at this location is better represented by channel 159.
+  * SAL, because although the station location is in the San Joaquin River, 
+* If you need to update the coordinates in the excel file, remember to comment out and modify coordinates for stations HLT and SAL.
+* output location files for O&M compliance locations are created separately, using om_compliance_stations.xlsx.
+
