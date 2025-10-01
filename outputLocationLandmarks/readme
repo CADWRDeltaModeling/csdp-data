@@ -15,8 +15,12 @@ Use the CSDP to create the output location files (.inp, see CSDP documentation).
 
 
 Notes:
-* for flow at station MDM, there is a separate landmark file, which should be used to create a separate output location file. This is because the two flow outputs need to be subtracted to compare with observed.
-* The landmark files were created using the excel file output_loc_files, which assigns coordinates to station abbreviations. The sources for the landmark files are stations_utm_new.csv (from Bay-Delta SCHISM repository) and stations_dbase (from Sophie/MSS), and stations_other, where I have mapped RKI values to cdec style abbreviations, and determined coordinates for a few other stations (including MDM1 and MDM2, which I am using to create the two outputs for this station) using CDEC and on online coordinate conversion tool.
+* for flow at station MDM, there is a separate landmark file, which should be used to create a separate output location file. This is because the two flow
+    outputs need to be subtracted to compare with observed.
+* The landmark files were created using the excel file output_loc_files, which assigns coordinates to station abbreviations. The sources for the landmark
+    files are stations_utm_new.csv (from Bay-Delta SCHISM repository) and station_dbase (from dms_datastore repository), and stations_other, where I have
+    mapped RKI values to cdec style abbreviations, and determined coordinates for a few other stations (including MDM1 and MDM2, which I am using to create
+    the two outputs for this station) using CDEC and on online coordinate conversion tool.
 * Coordinates for the following stations are modified in output_loc_files.xlsx:
   * HLT, because the actual location is in a portion of the grid represented by a complex network of channels, and the flow at this location is better represented by channel 159.
   * SAL, because although the station location is in the San Joaquin River, 
