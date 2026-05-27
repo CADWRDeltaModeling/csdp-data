@@ -4,7 +4,7 @@
 ;VerticalDatum:    NAVD88
 ;VerticalUnits:    USSurveyFeet
 ;Filetype:          landmark
-;NumElements:      26
+;NumElements:      30
 615442.0,4219547.0,7_mile@3_mile
 621499.0,4218739.0,7_mile@sjr
 616343.0,4213162.0,FalseBarrier
@@ -14,6 +14,8 @@
 630421.0,4234225.0,delta_cross_channel
 578842.0,4215128.0,goodyear_sl
 636575.0,4186954.0,grant_line_barrier
+607083.2349089632,4235427.722572723,lindsey_sl_north_weir
+607099.5554539738,4235392.114110882,lindsey_sl_south_weir
 633465.0,4194201.0000000005,middle_r_barrier
 597653.0,4216744.0,montezuma_salinity_control
 581777.0,4218829.0,morrow_c_line_outfall
@@ -22,7 +24,9 @@
 647109.0,4185846.0,old_r@head_barrier
 628269.0,4185759.9999999995,old_r@tracy_barrier
 648933.0,4180563.0,paradise_cut_weir
-643477.4860446532,4185156.7871519052,paradise_temp
+643477.5,4185156.75,paradise_temp
+641768.0690478095,4185817.0451751933,pdc_nw
+645610.3104032809,4183093.1507272227,pdc_sb
 597547.0,4216758.0,roaring_river_slough_intake
 620972.0,4204325.0,sandmound_sl
 639250.0,4183724.0,tom_paine_sl
