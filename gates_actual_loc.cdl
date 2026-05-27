@@ -4,7 +4,7 @@
 ;VerticalDatum:    NAVD88
 ;VerticalUnits:    USSurveyFeet
 ;Filetype:          landmark
-;NumElements:      30
+;NumElements:      29
 615442.0,4219547.0,7_mile@3_mile
 621499.0,4218739.0,7_mile@sjr
 616343.0,4213162.0,FalseBarrier
@@ -24,7 +24,6 @@
 647109.0,4185846.0,old_r@head_barrier
 628269.0,4185759.9999999995,old_r@tracy_barrier
 648933.0,4180563.0,paradise_cut_weir
-643477.5,4185156.75,paradise_temp
 641768.0690478095,4185817.0451751933,pdc_nw
 645610.3104032809,4183093.1507272227,pdc_sb
 597547.0,4216758.0,roaring_river_slough_intake
