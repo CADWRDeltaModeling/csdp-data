@@ -1,4 +1,4 @@
-﻿;HorizontalDatum:  UTMNAD83;HorizontalZone:   10;HorizontalUnits:  Meters;VerticalDatum:    NAVD88;VerticalUnits:    USSurveyFeet;Filetype:          landmark;NumElements:      149
+﻿;HorizontalDatum:  UTMNAD83;HorizontalZone:   10;HorizontalUnits:  Meters;VerticalDatum:    NAVD88;VerticalUnits:    USSurveyFeet;Filetype:          landmark;NumElements:      150
 576633.3,4211159,BENBR
 600859.1,4214643.6,CSE
 579121.895,4214883,FLT
@@ -148,3 +148,4 @@
 627377.4,4187715.2,ORI
 584692.1,4227881.3,FMB
 624631.5,4203880,HOLM
+630666.9,4231648.1,NMR
