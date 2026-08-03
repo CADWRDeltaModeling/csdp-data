@@ -1,6 +1,6 @@
 ;HorizontalDatum:  UTMNAD83
 ;HorizontalZone:   10
-;HorizontalUnits:  Meters
+;HorizontalUnits:  Feet
 ;VerticalDatum:    NAVD88
 ;VerticalUnits:    USSurveyFeet
 ;Filetype:          network
