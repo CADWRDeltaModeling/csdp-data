@@ -1,4 +1,4 @@
-﻿;HorizontalDatum:  UTMNAD83;HorizontalZone:   10;HorizontalUnits:  Meters;VerticalDatum:    NAVD88;VerticalUnits:    USSurveyFeet;Filetype:          landmark;NumElements:      28
+﻿;HorizontalDatum:  UTMNAD83;HorizontalZone:   10;HorizontalUnits:  Meters;VerticalDatum:    NAVD88;VerticalUnits:    USSurveyFeet;Filetype:          landmark;NumElements:      32
 619734.2,4239063.4,HWB
 630802.2,4234030.6,DLC
 624348.3,4243212.4,SUT
@@ -27,3 +27,7 @@
 639778,4185041,PDC
 614797.6,4223035.8,SRV
 629219.1,4233351.8,GES
+615029,4212420.9,SJJ
+637754.4,4187026.5,GLE
+647096.2,4185827.7,OH1
+597451.6,4219938,NSL
